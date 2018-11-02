@@ -6,13 +6,7 @@
 
 # Natural Language Processing Projects
 
-```
-├── 1.[Yelp Reviews Classifier](https://github.com/Zeeshanahmad4/NLP-Yelp-Reviews-Classifier)
-├── 
-├── 
-├── 
-└── 
-```
+   ### 1.[Yelp Reviews Classifier](https://github.com/Zeeshanahmad4/NLP-Yelp-Reviews-Classifier)
 
 
 
